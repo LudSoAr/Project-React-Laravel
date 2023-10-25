@@ -26,6 +26,7 @@ const SideBar = () => {
 
                     <li>
                         <button><Link to="/" className="link">Inicio</Link></button>
+                        <button><Link to="/" className="link">Aaron Prueba</Link></button>  
                     </li>
                     <li>
                         <button><Link to="/registrotrabajadores" className="link">Registro de Trabajadores</Link></button>
