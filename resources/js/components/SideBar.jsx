@@ -33,6 +33,9 @@ const SideBar = () => {
                     <li>
                         <button><Link to="/registroasistencia" className="link">Registro de Asistencia</Link></button>
                     </li>
+                    <li>
+                        <button><Link to="/registroasistencia" className="link">Ludwig</Link></button>
+                    </li>
                     {/* <footer className="footer">
                     &copy; 2023 AprodePerú
                 </footer> */}
