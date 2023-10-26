@@ -31,7 +31,7 @@ const SideBar = () => {
                         <button><Link to="/registrotrabajadores" className="link">Registro de Trabajadores</Link></button>
                     </li>
                     <li>
-                        <button><Link to="/registroasistencia" className="link">Registro de Asistencia</Link></button>
+                        <button><Link to="/registroasistencia" className="link">Registro de Asistencia Aaron</Link></button>
                     </li>
                     {/* <footer className="footer">
                     &copy; 2023 AprodePerú
