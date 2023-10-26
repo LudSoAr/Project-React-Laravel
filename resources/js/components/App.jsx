@@ -7,7 +7,7 @@ import './AppStyles.scss'
 
 import SideBar from './SideBar';
 
-import Home from './pages/home';
+import Home from './pages/Home';
 import Registroasistencia from './pages/RegistroAsistencia';
 import Registrotrabajadores from './pages/RegistroTrabajadores';
 
